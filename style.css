@@ -1,0 +1,12 @@
+.dot{
+    text-align: center;
+     list-style: none;
+}
+ul,li{
+    text-align: center;
+    list-style: none;
+    /* 앞에 *없애주는거 */
+    float: left;
+    /*가로 정렬*/
+    margin-left: 50px;
+}
