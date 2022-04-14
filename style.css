@@ -8,5 +8,43 @@ ul,li{
     /* 앞에 *없애주는거 */
     float: left;
     /*가로 정렬*/
-    margin-left: 50px;
+    margin-top: 00px;
+    margin-left: 100px;
+}
+button{
+    display: flex;
+    justify-content: right;
+    float: right;
+}
+span{
+    text-size-adjust: 70px;
+}
+.h1{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 0px 50px;/*상하좌우 정렬*/
+    float: left;
+    border:2px solid rgb(138, 212, 232)
+}
+.h2{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 00px 50px;/*상하좌우 정렬*/
+    float: left;
+    border:2px solid rgb(138, 212, 232)
+}
+.h3{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 0px 50px;/*상하좌우 정렬*/
+    float: left;
+    border:2px solid rgb(138, 212, 232)
+}
+.a{
+    font-size: 30px;
+    font-style:unset;
+    color: rgb(175, 169, 242);
 }
